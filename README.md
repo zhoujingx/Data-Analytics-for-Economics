@@ -19,25 +19,4 @@ If you don't already have a GitHub account, follow these steps to create one:
    - Complete your profile by adding a profile picture and bio if desired.
    - Ensure your email address is verified for seamless repository interactions.
 
-### 2. Fork the Course Repository
-
-Forking the repository allows you to create your own copy where you can work on assignments and projects without affecting the original repository.
-
-1. **Navigate to the Main Repository:**
-   - Visit the [ECON 5200 Course Repository](https://github.com/RyanPiao/Data-Analytics-for-Economics/) (replace with the actual repository link).
-
-2. **Fork the Repository:**
-   - Click the **Fork** button at the top right corner of the repository page.
-   - Choose your personal GitHub account as the destination for the fork.
-
-### 3. Clone Your Forked Repository (Optional for Now)
-
-Currently, we will focus on working directly through the GitHub web interface for API and GUI tasks. When we begin using Python and Jupyter Notebook, you will download GitHub Desktop to manage your projects locally.
-
-### 4. Initial Usage: API and GUI from the Web
-
-To get started, we'll focus on interacting with APIs and directly from the GitHub web interface. 
-
-### 5. Upcoming Steps: GitHub Desktop and Version Control
-
-As we progress and start incorporating Python and Jupyter Notebooks into our workflow, we will transition to using GitHub Desktop for version control. This will help you manage your projects more efficiently and collaborate seamlessly.
+### 2. Please check the class page (Canvas>Modules>Week2) for the remaining instructions, including how to fork and submit the project via the repository.
