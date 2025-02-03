@@ -1,4 +1,6 @@
-CREATE TABLE IF NOT EXISTS organizations ( 
+--IF CREATE TABLE IF NOT EXISTS organizations 
+
+CREATE TABLE organizations (
   Index SERIAL PRIMARY KEY,
   Organization_Id VARCHAR(255),
   Name VARCHAR(255),
@@ -77,6 +79,7 @@ GROUP BY Industry
 ORDER BY count_by_industry DESC;
 
 -- Task 4, Counts unique countries represented in each industry
+
 SELECT
     Industry,
     COUNT(DISTINCT Country) AS Number_of_Countries
